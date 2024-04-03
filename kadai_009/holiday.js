@@ -7,7 +7,7 @@ for (let i = 0; i <= 15 ; i++) {
 
 // 変数iの値が16以外である間、変数iの値が1 ずつ増え続ける
 let w = 0;
-while (w  <= 16) {
+while (w  <= 15) {
     console.log(holidays[w])
     w++;
 }

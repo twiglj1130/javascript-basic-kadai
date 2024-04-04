@@ -6,7 +6,7 @@ let year = today.getFullYear();
 // console.log(year);
 
 // 月だけ取得
-let month = today.getMonth();
+let month = today.getMonth() + 1;
 // console.log(month);
 
 // 日にちだけ取得

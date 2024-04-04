@@ -5,6 +5,6 @@ const bTn = document.getElementById ('btn');
 bTn.addEventListener('click', () => {
 
     const newH2 = 'ボタンをクリックしました';
-    text.textContent = newH2;
+    texts.textContent = newH2;
 
 });
